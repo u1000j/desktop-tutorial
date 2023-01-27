@@ -1,5 +1,2 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+01.26 push 오류 해결
+2023portfolio 올리면서 윈도우의 전체 파일이 함께 올라감 수정필요
